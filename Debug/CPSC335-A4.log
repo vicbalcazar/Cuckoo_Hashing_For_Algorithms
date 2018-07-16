@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\programming projects\cpsc335-a4\cpsc335-a4\source.cpp(155): warning C4018: '<': signed/unsigned mismatch
+d:\programming projects\cpsc335-a4\cpsc335-a4\source.cpp(180): warning C4018: '<': signed/unsigned mismatch
+  CPSC335-A4.vcxproj -> D:\programming projects\CPSC335-A4\Debug\CPSC335-A4.exe
+  CPSC335-A4.vcxproj -> D:\programming projects\CPSC335-A4\Debug\CPSC335-A4.pdb (Full PDB)
